@@ -1,0 +1,2 @@
+fpc solve.dpr;
+./solve
